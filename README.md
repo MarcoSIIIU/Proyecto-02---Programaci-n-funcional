@@ -1,6 +1,7 @@
 ## Teoría de Lenguajes de Programación
 ## Proyecto 02: Programación funcional
 ### Equipo: 5
+### Integrantes:
 ### Canche May Marco Santiago
 ### Gutierrez Couoh Josee Luis
 ### Ruz Ruz Carlos Israel
