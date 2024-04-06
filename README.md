@@ -39,5 +39,7 @@ binario equivalente. No use funciones incorporadas de Racket.
       b. Ejemplo de salida: 1111011
 10. Utilizando la serie de Leibnitz y mediante una función recursiva, calcule el valor de PI
 
+    *Video de ayuda para instalar racket*[este](https://youtu.be/35088I6Qbkg "click")
+
 
 
